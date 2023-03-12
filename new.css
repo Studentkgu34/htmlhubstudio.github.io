@@ -1,0 +1,38 @@
+body {
+    font-family:'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400;
+    color: black;
+}
+/*NEW*/
+.new {
+    margin: 0 0 50px;
+    text-transform: uppercase;
+    text-align: center;
+    color: gray;
+    font-size: 32px;
+    line-height: 39px;
+    font-weight: 700;
+}
+
+.new-info {
+    display: flex;
+    align-items: center;
+    
+}
+.new-text p{
+    max-width: 560px;
+    margin: 0 0 30px;
+    
+}
+.new-text b {
+    max-width: 560px;
+    font-size: 20px;
+    line-height: 26px;
+    display: block;
+}
+
+.images-new {
+    margin-left: 190px;
+}
